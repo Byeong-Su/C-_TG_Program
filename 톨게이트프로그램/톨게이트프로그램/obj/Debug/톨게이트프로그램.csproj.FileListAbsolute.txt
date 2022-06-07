@@ -1,0 +1,40 @@
+C:\Users\박상민\Desktop\알고리즘\톨게이트프로그램\톨게이트프로그램\bin\Debug\톨게이트프로그램.exe.config
+C:\Users\박상민\Desktop\알고리즘\톨게이트프로그램\톨게이트프로그램\bin\Debug\톨게이트프로그램.exe
+C:\Users\박상민\Desktop\알고리즘\톨게이트프로그램\톨게이트프로그램\bin\Debug\톨게이트프로그램.pdb
+C:\Users\박상민\Desktop\알고리즘\톨게이트프로그램\톨게이트프로그램\obj\Debug\톨게이트프로그램.csprojAssemblyReference.cache
+C:\Users\박상민\Desktop\알고리즘\톨게이트프로그램\톨게이트프로그램\obj\Debug\톨게이트프로그램.톨게이트.resources
+C:\Users\박상민\Desktop\알고리즘\톨게이트프로그램\톨게이트프로그램\obj\Debug\톨게이트프로그램.Properties.Resources.resources
+C:\Users\박상민\Desktop\알고리즘\톨게이트프로그램\톨게이트프로그램\obj\Debug\톨게이트프로그램.csproj.GenerateResource.cache
+C:\Users\박상민\Desktop\알고리즘\톨게이트프로그램\톨게이트프로그램\obj\Debug\톨게이트프로그램.csproj.CoreCompileInputs.cache
+C:\Users\박상민\Desktop\알고리즘\톨게이트프로그램\톨게이트프로그램\obj\Debug\톨게이트프로그램.exe
+C:\Users\박상민\Desktop\알고리즘\톨게이트프로그램\톨게이트프로그램\obj\Debug\톨게이트프로그램.pdb
+C:\Users\ADMIN\Desktop\알고리즘 프로젝트\톨게이트프로그램\톨게이트프로그램\bin\Debug\톨게이트프로그램.exe.config
+C:\Users\ADMIN\Desktop\알고리즘 프로젝트\톨게이트프로그램\톨게이트프로그램\bin\Debug\톨게이트프로그램.exe
+C:\Users\ADMIN\Desktop\알고리즘 프로젝트\톨게이트프로그램\톨게이트프로그램\bin\Debug\톨게이트프로그램.pdb
+C:\Users\ADMIN\Desktop\알고리즘 프로젝트\톨게이트프로그램\톨게이트프로그램\obj\Debug\톨게이트프로그램.csprojAssemblyReference.cache
+C:\Users\ADMIN\Desktop\알고리즘 프로젝트\톨게이트프로그램\톨게이트프로그램\obj\Debug\톨게이트프로그램.톨게이트.resources
+C:\Users\ADMIN\Desktop\알고리즘 프로젝트\톨게이트프로그램\톨게이트프로그램\obj\Debug\톨게이트프로그램.Properties.Resources.resources
+C:\Users\ADMIN\Desktop\알고리즘 프로젝트\톨게이트프로그램\톨게이트프로그램\obj\Debug\톨게이트프로그램.csproj.GenerateResource.cache
+C:\Users\ADMIN\Desktop\알고리즘 프로젝트\톨게이트프로그램\톨게이트프로그램\obj\Debug\톨게이트프로그램.csproj.CoreCompileInputs.cache
+C:\Users\ADMIN\Desktop\알고리즘 프로젝트\톨게이트프로그램\톨게이트프로그램\obj\Debug\톨게이트프로그램.exe
+C:\Users\ADMIN\Desktop\알고리즘 프로젝트\톨게이트프로그램\톨게이트프로그램\obj\Debug\톨게이트프로그램.pdb
+C:\Users\ADMIN\Desktop\알고리즘-project\알고리즘\톨게이트프로그램\톨게이트프로그램\bin\Debug\톨게이트프로그램.exe.config
+C:\Users\ADMIN\Desktop\알고리즘-project\알고리즘\톨게이트프로그램\톨게이트프로그램\bin\Debug\톨게이트프로그램.exe
+C:\Users\ADMIN\Desktop\알고리즘-project\알고리즘\톨게이트프로그램\톨게이트프로그램\bin\Debug\톨게이트프로그램.pdb
+C:\Users\ADMIN\Desktop\알고리즘-project\알고리즘\톨게이트프로그램\톨게이트프로그램\obj\Debug\톨게이트프로그램.csprojAssemblyReference.cache
+C:\Users\ADMIN\Desktop\알고리즘-project\알고리즘\톨게이트프로그램\톨게이트프로그램\obj\Debug\톨게이트프로그램.톨게이트.resources
+C:\Users\ADMIN\Desktop\알고리즘-project\알고리즘\톨게이트프로그램\톨게이트프로그램\obj\Debug\톨게이트프로그램.Properties.Resources.resources
+C:\Users\ADMIN\Desktop\알고리즘-project\알고리즘\톨게이트프로그램\톨게이트프로그램\obj\Debug\톨게이트프로그램.csproj.GenerateResource.cache
+C:\Users\ADMIN\Desktop\알고리즘-project\알고리즘\톨게이트프로그램\톨게이트프로그램\obj\Debug\톨게이트프로그램.csproj.CoreCompileInputs.cache
+C:\Users\ADMIN\Desktop\알고리즘-project\알고리즘\톨게이트프로그램\톨게이트프로그램\obj\Debug\톨게이트프로그램.exe
+C:\Users\ADMIN\Desktop\알고리즘-project\알고리즘\톨게이트프로그램\톨게이트프로그램\obj\Debug\톨게이트프로그램.pdb
+C:\Users\neado\Desktop\알고리즘\톨게이트프로그램\톨게이트프로그램\bin\Debug\톨게이트프로그램.exe.config
+C:\Users\neado\Desktop\알고리즘\톨게이트프로그램\톨게이트프로그램\bin\Debug\톨게이트프로그램.exe
+C:\Users\neado\Desktop\알고리즘\톨게이트프로그램\톨게이트프로그램\bin\Debug\톨게이트프로그램.pdb
+C:\Users\neado\Desktop\알고리즘\톨게이트프로그램\톨게이트프로그램\obj\Debug\톨게이트프로그램.csprojAssemblyReference.cache
+C:\Users\neado\Desktop\알고리즘\톨게이트프로그램\톨게이트프로그램\obj\Debug\톨게이트프로그램.톨게이트.resources
+C:\Users\neado\Desktop\알고리즘\톨게이트프로그램\톨게이트프로그램\obj\Debug\톨게이트프로그램.Properties.Resources.resources
+C:\Users\neado\Desktop\알고리즘\톨게이트프로그램\톨게이트프로그램\obj\Debug\톨게이트프로그램.csproj.GenerateResource.cache
+C:\Users\neado\Desktop\알고리즘\톨게이트프로그램\톨게이트프로그램\obj\Debug\톨게이트프로그램.csproj.CoreCompileInputs.cache
+C:\Users\neado\Desktop\알고리즘\톨게이트프로그램\톨게이트프로그램\obj\Debug\톨게이트프로그램.exe
+C:\Users\neado\Desktop\알고리즘\톨게이트프로그램\톨게이트프로그램\obj\Debug\톨게이트프로그램.pdb
